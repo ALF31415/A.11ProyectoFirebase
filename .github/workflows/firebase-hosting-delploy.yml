@@ -22,4 +22,4 @@ jobs:
         env:
           FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
         run: |
-          firebase deploy --only hosting --project "dpl-firebase-5e3f3" --token "$FIREBASE_TOKEN"
+          firebase deploy --only hosting --project "dpl-test-art" --token "$FIREBASE_TOKEN"
