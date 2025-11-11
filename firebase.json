@@ -5,6 +5,10 @@
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
-    ]
+    ],
+    "github": {
+    "repo": "ALF31415/A.11ProyectoFirebase",
+    "branch": "main"
+  }
   }
 }
